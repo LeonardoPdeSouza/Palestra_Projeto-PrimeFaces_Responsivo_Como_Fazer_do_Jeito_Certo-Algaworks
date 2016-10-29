@@ -23,7 +23,7 @@ body {
 	font-weight: 400;
 }
 /*
-// Calcular breakpoint de tela (640px minimo) e ajustar 50% da tela -50px de padding
+// Calcular breakpoint de tela (640px minimo) e ajustar 50% da tela -50px de padding 
 
 @media (min-width: 640px) {
 	.box {
